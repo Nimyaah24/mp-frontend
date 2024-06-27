@@ -1,0 +1,12 @@
+
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+/* 600pxin thazhott aaneghil hide aay kaanum*/
+@media(max-width:600px){
+  #h{
+    display: none;
+  }
+}
